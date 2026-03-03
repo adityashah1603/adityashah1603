@@ -1,5 +1,5 @@
 👋 Hello, I'm Aditya Shah!
-Welcome to my GitHub space, where technology meets curiosity. I am a passionate Electronics and Communication Engineering graduate with a keen interest in the realms of machine learning and cybersecurity. Leveraging my academic foundation and practical experience, I strive to contribute meaningfully to the world of technology.
+Welcome to my GitHub space, where technology meets curiosity. I'm an AI and Machine Learning Engineer with a passion for building intelligent systems that solve real-world problems. Currently pursuing my Master's in Computer Engineering at San Jose State University 
 
 🚀 What You'll Find Here:
 Machine Learning Enthusiast: Exploring the vast landscape of machine learning, I am committed to developing intelligent solutions that push the boundaries of what's possible.
@@ -17,6 +17,7 @@ Feel free to explore my repositories, engage in discussions, or collaborate on e
 📧 Contact Me:
 Email: adityashah1603@gmail.com
 LinkedIn: [Aditya Shah on LinkedIn](https://www.linkedin.com/in/aditya-shah-b51754235/)
+Website: [Aditya Shah](https://69a72432f6cc10ddf2df4b75.blocks-app.diy/)
 
 Thank you for stopping by, and I look forward to connecting with fellow enthusiasts, developers, and learners!
 
